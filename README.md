@@ -20,4 +20,4 @@ I used input statements to retrieve customer weather preferences, then used thos
 I used the Google Directions API and created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, I created a marker layer map with a pop-up marker for each city on the itinerary.
 
 ![WeatherPy_Travel_Map](Vacation_Itinerary/WeatherPy_Travel_Map.png)<br><br>
-!WeatherPy_Travel_Map_Markers](Vacation_Itinerary/WeatherPy_Travel_Map_Markers.png)<br><br>
+![WeatherPy_Travel_Map_Markers](Vacation_Itinerary/WeatherPy_Travel_Map_Markers.png)<br><br>
